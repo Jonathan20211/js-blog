@@ -1,0 +1,49 @@
+.conteinar-home{
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    margin: auto;
+}
+
+.home-img {
+    display: flex;
+    width: 100%;
+}
+
+.home-img img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+}
+
+.home-texto{
+    width: 100%;
+    max-width: 75%;
+    margin: auto;
+    text-align: justify;    
+}
+
+.home-titulo{
+    text-align: center;
+    font-size: 28px;
+    font-family: "Noto Sans", sans-serif;  
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.home-linha{
+    border-bottom: 4px solid rgb(94 163 181);
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+.home-descricao{
+    font-size: 24px;
+    margin-top: 20px;
+    padding-bottom: 10px;
+}
+

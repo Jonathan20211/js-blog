@@ -1,0 +1,101 @@
+.conteinar-perfil {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    background-color: #f5f5f5;
+    flex-direction: column;
+}
+
+.perfil-img {
+    width: 100%;
+    display: flex;
+}
+
+.perfil-img img {
+    width: 100%;
+    display: flex;
+    height: 500px;
+    object-fit: cover;
+    margin: 0 auto;
+    display: block;
+}
+
+.perfil-texto {
+    width: 100%;
+    max-width: 75%;
+    margin: auto;
+    text-align: center;
+}
+
+.perfil-titulo {
+    font-size: 28px;
+    font-family: "Noto Sans", sans-serif;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.perfil-linha {
+    border-bottom: 4px solid rgb(94 163 181);
+    width: 25rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.perfil-descricao {
+    text-align: justify;
+    font-size: 24px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.perfil-formacao-academica {
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    border-bottom: 4px solid rgb(94 163 181);
+    max-width: 25rem;
+}
+
+.pefil-formacao-curso{
+    text-align: left;
+    margin-top: 15px;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.perfil-experiencia{
+    width: 100%;
+    max-width: 75%;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.perfil-experiencia p {
+    font-weight: bold;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.perfil-experiencia-card{
+    width: auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+    .perfil-experiencia {
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .perfil-experiencia-card {
+        width: 90%;
+    }
+}
