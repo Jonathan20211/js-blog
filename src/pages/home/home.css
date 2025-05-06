@@ -22,7 +22,6 @@
     width: 100%;
     max-width: 1000px;
     margin: 0 auto;
-    padding: 20px;
     text-align: justify;
 }
 
@@ -44,7 +43,6 @@
 .home-descricao {
     font-size: 20px;
     line-height: 1.6;
-    padding-bottom: 20px;
 }
 
 .home-descricao p {
