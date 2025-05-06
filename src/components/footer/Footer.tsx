@@ -14,7 +14,7 @@ export default function Footer() {
                     <Link className='footer-icon-link' to="/contato"><MdOutlineEmail /></Link>
                 </i>
                 <i className="footer-icon">
-                    <a className='footer-icon-link' href="https://www.instagram.com/jonathan_silva_92/?igsh=MTVsZWlqOHp2M2djMw%3D%3D" target='_blank'><FaInstagram /></a>
+                    <a className='footer-icon-link' href="https://www.instagram.com/jonathan.ganso_92?igsh=MTVsZWlqOHp2M2djMw==" target='_blank' rel="noopener noreferrer"><FaInstagram /></a>
                 </i>
             </div>
         </div>

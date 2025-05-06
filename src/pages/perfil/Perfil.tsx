@@ -18,15 +18,15 @@ export default function Perfil() {
                     Graduado em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e Tecnologia
                     do Espirito Santo (IFES) - Campus Cachoeiro de Itapemirim-ES. Tecinico em Informática pelo
                     Institulo Federal de Educação, Ciência e Tecnologia do Espirito Santo (IFES) - Campus Cachoeiro
-                    de Itapemirim-ES. Tem experiência na área de Sistemas de Informação, Desenvolvimento Web básico com ReactJs, NodeJs e Mysql.
-                    Também área de Informática, atual como formatação, backup de arquivos, programas, revisão com computadores e notebooks.
+                    de Itapemirim-ES. Tem experiência na área de Sistemas de Informação e Desenvolvimento Web básico com ReactJs, NodeJs e Mysql.
+                    Também atual na área de informática, como formatação, backup de arquivos, instalação de programas, e manutenção de computadores e notebooks.
                 </div>
                 <div className="perfil-formacao-academica">FORMAÇÃO ACADÊMICA</div>
-                <div className="pefil-formacao-curso">2013–2015: Curso Técnico em Informática, Instituto Federal do Espírito Santo – IFES</div>
-                <div className="pefil-formacao-curso">2017–2023: Curso Superior em Sistemas de Informação, Instituto Federal do Espírito Santo
+                <div className="perfil-formacao-curso">2013–2015: Curso Técnico em Informática, Instituto Federal do Espírito Santo – IFES</div>
+                <div className="perfil-formacao-curso">2017–2023: Curso Superior em Sistemas de Informação, Instituto Federal do Espírito Santo
                     – IFES</div>
                 <div className="perfil-formacao-academica">EXPERIÊNCIA PROFISSIONAL</div>
-                <div className="pefil-formacao-curso">
+                <div className="perfil-formacao-curso">
                     PREFEITURA MUNICIPAL DE VENDA NOVA DO IMIGRANTE<br />
                     Cargo: Contrato - (SECRETARIA MUNICIPAL DE EDUCAÇÃO)<br />
                     Período: 07/2024 à 12/2024<br /><br />
@@ -39,7 +39,7 @@ export default function Perfil() {
                     nos diversos setores da Prefeitura, controlando o estoque de peças de reposição, preparar relatórios
                     e laudos técnicos.
                 </div>
-                <div className="pefil-formacao-curso">
+                <div className="perfil-formacao-curso">
                     CENTRO EDUCACIONAL DEOLINDO PERIM<br />
                     Cargo: Estagiário <br />
                     Período: 03/2022 à 12/2022<br /><br />
@@ -47,14 +47,14 @@ export default function Perfil() {
                     operacionais e desenvolvimento web.
                 </div>
                 <div className="perfil-formacao-academica">HABILIDADES</div>
-                <div className="pefil-formacao-curso">
+                <div className="perfil-formacao-curso">
                     Fácil adaptação e relacionamento interpessoal;<br />
                     Comunicativo;<br />
                     Comprometido com horários e tarefas;<br />
                     Dinâmico.
                 </div>
                 <div className="perfil-formacao-academica">SOBRE MIM</div>
-                <div className="pefil-formacao-curso">
+                <div className="perfil-formacao-curso">
                     Meu nome é Jonathan da Silva, sou surdo e tenho 32 anos. Moro em Venda Nova do
                     Imigrante. Sou formado no curso técnico em informática em 2015. Concluí o curso superior em
                     sistemas de informação em 2023 no IFES em Cachoeiro de Itapemirim.
@@ -82,7 +82,7 @@ export default function Perfil() {
                     <p>Desenvolvimento Básico:</p><br />
                     <div>
                         FrontEnd ReactJs – Blog, Escolas, etc.<br />
-                        Obs.: exeto loja virtual
+                        Obs.: exceto desenvolvimento de loja virtual
                     </div>
                 </div>
                 <div className="perfil-experiencia-card">

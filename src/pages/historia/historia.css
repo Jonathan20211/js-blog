@@ -1,4 +1,4 @@
-.conteinar-historia{
+.container-historia{
     display: flex;
     width: 100%;
     justify-content: center;
@@ -8,28 +8,33 @@
 
 .historia-texto{
     width: 100%;
-    max-width: 75%;
+    max-width: 1000px;
     margin: auto;
     text-align: justify;
 }
 
 .historia-titulo{
     text-align: center;
-    font-size: 28px;
+    font-size: 32px;
     font-family: "Noto Sans", sans-serif;
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 10px;
+    font-weight: bold;
 }
 
 .historia-linha{
     border-bottom: 4px solid rgb(94 163 181);
-    width: 25rem;
-    margin-left: auto;
-    margin-right: auto; 
+    width: 250px;
+    margin: 0 auto 20px;
 }
 
 .historia-descricao{
-    font-size: 24px;
+    font-size: 20px;
+    line-height: 1.6;
     margin-top: 20px;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
+}
+
+.historia-descricao p {
+    margin-bottom: 20px;
 }
